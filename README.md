@@ -6,6 +6,9 @@ The platform allows students to enroll in courses, instructors to teach courses,
 
 ---
 
+
+![Online Course Platform](https://github.com/user-attachments/assets/ce8dfbe3-7e82-4ee3-83a0-2fcb807e83af)
+
 ## 🗂 Project Structure
 
 - **Students**: Information about students registered on the platform.
